@@ -1,0 +1,13 @@
+.ListProject__title {
+  color: #9ea3b4;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  display: flex;
+  padding-top: 170px;
+  position: relative;
+  margin-left: 122px;
+}
+.ListProject li {
+  list-style: none;
+}
